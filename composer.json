@@ -1,0 +1,10 @@
+{
+  "name": "verkoijen/wp-remove-admin-bar-logo",
+  "type": "wordpress-plugin",
+  "license": "GPLv3",
+  "description": "Removes the logo and submenu from the WordPress admin bar menu.",
+  "keywords": ["plugin"],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
